@@ -1,1 +1,1 @@
-# openalgo
+npm i openalgo-charts# openalgo
